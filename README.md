@@ -1,4 +1,4 @@
-# Deel Test
+# Lab
 
 Includes:
 1. Dockerfile for nginx + php-fpm
